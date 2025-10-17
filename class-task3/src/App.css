@@ -1,0 +1,27 @@
+.header{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    gap: 20px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+
+}
+.content{
+    padding: 20px;
+    text-align: center;
+
+}
+.footer{
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
