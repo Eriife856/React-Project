@@ -2,7 +2,7 @@
 import LikeButton from "./Components/LikeButton"
 import './App.css';
 function App(){
-    return( <div>
+    return( <div className="like-container" >
     <LikeButton/>
 </div>
   
