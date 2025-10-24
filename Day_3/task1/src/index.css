@@ -1,0 +1,16 @@
+.count{
+   background-color: rgb(123, 123, 230);
+   width: 100%;
+   height: 100%;
+   
+}
+
+button{
+  margin-left: 20px;
+  width: 100px;
+  height: 50px;
+  border-radius: 5px;
+}
+h1{
+  text-align: center;
+}

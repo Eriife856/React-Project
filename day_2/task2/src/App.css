@@ -1,0 +1,14 @@
+
+.addButton{
+     color:green;
+}
+
+.disabledButton{
+   color: red;
+}
+.app-container{
+   display: flex;
+   justify-content:center;
+   align-items: center;
+   text-align: justify;
+}

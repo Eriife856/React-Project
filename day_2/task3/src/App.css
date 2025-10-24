@@ -1,0 +1,25 @@
+.state-card {
+  border: 4px solid; /* REQUIRED */
+  border-radius: 8px;
+  padding: 16px;
+  margin: 10px;
+  width: 220px;
+  text-align: center;
+  background-color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.popularityStatus {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.popular {
+  color: #008751;
+}
+
+.state-container{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}

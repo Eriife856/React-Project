@@ -1,0 +1,47 @@
+
+/* .stats-container {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 15px;
+} */
+
+.stats-container button {
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+
+.stats-container button:hover {
+  background-color: #0d47a1;
+  
+}
+
+
+.pcard{
+  background-color: #528fcc;
+  height: 100%;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  padding-left: 120px;
+  padding-right: 120px;
+  /* justify-content: center;
+  text-align: center; */
+
+}
+.container{
+  
+  /* display: flex;
+  justify-content: center;
+   align-items: center; */
+   justify-self: center;
+   align-items: center;
+   /* margin: auto; */
+  
+}
